@@ -1,0 +1,10 @@
+---
+title: "test_document"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
